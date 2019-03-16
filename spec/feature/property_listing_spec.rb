@@ -1,9 +1,9 @@
-  # feature 'expect there to be a view property button' do
-  #   scenario do
-  #     visit '/browse'
-  #     expect(page).to have_button('VIEW')
-  #   end
-  # end
+  feature 'expect there to be a view property button' do
+    scenario do
+      visit '/browse'
+      expect(page).to have_button('VIEW')
+    end
+  end
   #
   # feature 'expect there to be a home button' do
   #   scenario do
