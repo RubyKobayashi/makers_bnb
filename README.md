@@ -88,26 +88,35 @@ I want my property to remain advertised until I have approved booking.
 **Original Wireframes:**
 
 **Renter**
+
 ***Sign up***
+
 [![Sign-up.png](http://i67.tinypic.com/2whnsl5.png)](http://tinypic.com/r/2whnsl5/9)
 
+***Login***
+
+[![Login.png](http://i63.tinypic.com/xdigbt.png)](http://tinypic.com/r/xdigbt/9)
+
 ***Property List***
+
 [![Property-list.png](http://i65.tinypic.com/24ottfl.png)](http://tinypic.com/r/24ottfl/9)
 
 ***Property Details***
+
 [![Property-details.png](http://i64.tinypic.com/qpjrs9.png)](http://tinypic.com/r/qpjrs9/9)
 
 ***Confirmation of booking***
+
 [![Confirmation.png](http://i65.tinypic.com/2s8l577.png)](http://tinypic.com/r/2s8l577/9)
 
 ***My bookings***
+
 [![My-bookings.png](http://i66.tinypic.com/8xrhnl.png)](http://tinypic.com/r/8xrhnl/9)
 
 **Property Owner**
-***Login***
-[![Login.png](http://i63.tinypic.com/xdigbt.png)](http://tinypic.com/r/xdigbt/9)
 
 ***Pending bookings***
+
 [![My-bookings.png](http://i65.tinypic.com/vs0xv5.png)](http://tinypic.com/r/vs0xv5/9)
 
 
