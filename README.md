@@ -91,6 +91,11 @@ I want my property to remain advertised until I have approved booking.
 
 [![Login.png](http://i63.tinypic.com/xdigbt.png)](http://tinypic.com/r/xdigbt/9)
 
+[![Property-list.png](http://i65.tinypic.com/24ottfl.png)](http://tinypic.com/r/24ottfl/9)
+
+[![Property-details.png](http://i64.tinypic.com/qpjrs9.png)](http://tinypic.com/r/qpjrs9/9)
+
+
 
 
 
