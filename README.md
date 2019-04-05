@@ -83,3 +83,14 @@ As a property owner,
 So I can choose who to rent my property to,
 I want my property to remain advertised until I have approved booking.
 ```
+
+-----
+**Original Wireframes:**
+
+[![Sign-up.png](http://i67.tinypic.com/2whnsl5.png)](http://tinypic.com/r/2whnsl5/9)
+
+[![Login.png](http://i63.tinypic.com/xdigbt.png)](http://tinypic.com/r/xdigbt/9)
+
+
+
+
