@@ -1,6 +1,13 @@
 # Makers BnB
 
-* TBC
+* This was a group project that was started and completed in week 6 of Makers. We built a working clone of Air Bnb using the following tech stack:
+
+Ruby
+Sinatra
+RSpec / Capybara
+PostgreSQL
+Bootstrap and Bootswatch
+CSS
 
 -----
 **User Stories:**
